@@ -8,3 +8,6 @@ Key Highlights:
 ✅ DAX-Powered Calculations – creating advanced metrics for trend analysis and business growth
 This dashboard helps visualize revenue trends, customer behavior, and strategic insights that drive business decisions
 you can get the daashborad using link <a href="https://github.com/basantabdelmwla/data-analysis-dashboard/blob/main/githup.png">view dashboard</a>
+
+the dashboard
+![githup](https://github.com/user-attachments/assets/ef7c4e9e-dcb2-4ddf-bcad-ac262aac3321)
