@@ -1,3 +1,5 @@
+process
+transformed raw sales data into actionable business insights using DAX functions, data modeling, and advanced visualizations!
 Key Highlights:
 ✅ Dynamic Tooltip by Region & Year – enabling deeper insights for decision-making
 ✅ Custom Calendar Table with Weekends Analysis – identifying sales trends across different days
